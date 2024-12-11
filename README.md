@@ -31,6 +31,7 @@ Survey responses were analyzed using descriptive and inferential statistical tec
 
 #### Key Insights and Recommendations
 **Product Development**
+
 **Health and Monitoring:** Include features like vital sign tracking and early illness detection.
 
 **Smart Technology:** Integrate GPS tracking, activity monitoring, and smartphone connectivity.
@@ -45,6 +46,7 @@ Survey responses were analyzed using descriptive and inferential statistical tec
 
 
 **Pricing Strategy**
+
 **Below 20:** Core features priced at ₹3000–₹5000.
 
 **21–30:** Mid-range variants priced at ₹3000–₹7000 with smart integration.
@@ -55,6 +57,7 @@ Survey responses were analyzed using descriptive and inferential statistical tec
 
 
 **Promotion Strategy**
+
 **Social Media Marketing:** Leverage platforms like Instagram, Facebook, and YouTube.
 
 **Influencer Collaborations:** Partner with pet care influencers to build trust and reach.
@@ -65,6 +68,7 @@ Survey responses were analyzed using descriptive and inferential statistical tec
 
 
 **Place Strategy**
+
 Focus on increasing visibility through:
 Online retailers for convenience.
 Veterinary clinics for credibility.
